@@ -1,0 +1,39 @@
+Entity
+Company Name
+Journal Number
+Spotlight Type
+Date Entered
+Time Entered
+Date Updated
+Time Updated
+UserID Entered
+Name of User Entered
+UserID Updated
+Name of User Updated
+Date Effective
+Date of Journal
+Financial Period
+Journal Type
+Journal Type Description
+Auto Manual or Interface
+Journal Description
+Line Number
+Line Description
+Currency
+Entity Currency (EC)
+Exchange Rate
+DC Indicator
+Signed Journal Amount
+Unsigned Debit Amount
+Unsigned Credit Amount
+Signed Amount EC
+Unsigned Debit Amount EC
+Unsigned Credit Amount EC
+Account Number
+Account Description
+Controlling Area for Cost and Profit Centre
+Cost Centre
+Cost Centre Description
+Profit Centre
+Profit Centre Description
+Source Activity or Transaction Code

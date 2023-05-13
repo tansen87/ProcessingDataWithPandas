@@ -1,0 +1,20 @@
+{
+    "Material": {
+        "AcrylicBlurRadius": 19
+    },
+    "Update": {
+        "CheckUpdateAtStartUp": false
+    },
+    "Folders": {
+        "Download": "E:/Desktop/gallery",
+        "LocalMusic": []
+    },
+    "MainWindow": {
+        "DpiScale": "Auto",
+        "Language": "en_US"
+    },
+    "QFluentWidgets": {
+        "ThemeColor": "#ff4eaa4d",
+        "ThemeMode": "Light"
+    }
+}

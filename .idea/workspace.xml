@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d92dd3b-9fe8-4ed5-bc2a-80dc2c8865f9" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/mainwindow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulesUI/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulesUI/img/excel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulesUI/img/pivot.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulesUI/img/visual.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulesUI/main_ui.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulesUI/pivot_ui.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulesUI/plot_ui.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulesWindow/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulesWindow/pivot_window.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qtmodern/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qtmodern/_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qtmodern/resources/frameless.qss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qtmodern/resources/style.qss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qtmodern/styles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qtmodern/windows.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/concat_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/draw_pic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/merge_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/pivot_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/record_logs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/screen_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/view_data.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PjrpfrE2be5umDMj8W0sUUpVcr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8d92dd3b-9fe8-4ed5-bc2a-80dc2c8865f9" name="变更" comment="" />
+      <created>1683981515852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683981515852</updated>
+      <workItem from="1683981517599" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

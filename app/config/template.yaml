@@ -1,0 +1,40 @@
+# 疯狂星期四,V我50
+Entity: Entity
+CompanyName: Company Name
+JournalNumber: Journal Number
+DateEffective: Date Effective
+DateEntered: Date Entered
+LineNumber: Line Number
+LineDescription: Line Description
+Currency: Currency
+EntityCurrency(EC): Entity Currency (EC)
+DCIndicator: DC Indicator
+SignedJournalAmount: Signed Journal Amount
+UnsignedDebitAmount: Unsigned Debit Amount
+UnsignedCreditAmount: Unsigned Credit Amount
+SignedAmountEC: Signed Amount EC
+UnsignedDebitAmountEC: Unsigned Debit Amount EC
+UnsignedCreditAmountEC: Unsigned Credit Amount EC
+AccountNumber: Account Number
+AccountDescription: Account Description
+FinancialPeriod: Financial Period
+AutoManualorInterface: Auto Manual or Interface
+UserIDEntered: UserID Entered
+NameofUserEntered: Name of User Entered
+UserIDUpdated: UserID Updated
+NameofUserUpdated: Name of User Updated
+SpotlightType: Spotligh tType
+TimeEntered: Time Entered
+DateUpdated: Date Updated
+TimeUpdated: Time Updated
+DateofJournal: Date of Journal
+JournalType: Journal Type
+JournalTypeDescription: Journal Type Description
+JournalDescription: Journal Description
+ExchangeRate: Exchange Rate
+ControllingAreaforCostandProfitCentre: Controlling Area for Cost and Profit Centre
+CostCentre: Cost Centre
+CostCentreDescription: Cost Centre Description
+ProfitCentre: Profit Centre
+ProfitCentreDescription: Profit Centre Description
+SourceActivityorTransactionCode: Source Activity or Transaction Code

@@ -1,0 +1,7 @@
+PyQt5
+pandas==2.0
+pyarrow
+pypinyin
+python_calamine
+numpy
+xlsxwriter
