@@ -50,13 +50,12 @@ class Config(QConfig):
 
 YEAR = 2023
 AUTHOR = "tansen"
-VERSION = __version__
+VERSION = "0.1.3"
 HELP_URL = "https://github.com/tansen87/ProcessingDataWithPandas/blob/main/README.md"
 REPO_URL = "https://github.com/tansen87/ProcessingDataWithPandas"
 EXAMPLE_URL = "https://github.com/tansen87/ProcessingDataWithPandas"
 FEEDBACK_URL = "https://github.com/tansen87/ProcessingDataWithPandas/issues"
 RELEASE_URL = "https://github.com/tansen87/ProcessingDataWithPandas"
-# SUPPORT_URL = "https://afdian.net/a/zhiyiYo"
 
 
 cfg = Config()
