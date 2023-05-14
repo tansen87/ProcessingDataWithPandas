@@ -4,7 +4,7 @@
 
 #### main window
 
-![image-20230514105620302](C:\Users\Q\AppData\Roaming\Typora\typora-user-images\image-20230514105620302.png)
+![image](https://github.com/tansen87/ProcessingDataWithPandas/assets/98570790/0e0534ef-5c20-454a-af01-c9a48f245aa5)
 
 #### Usage
 
